@@ -1,0 +1,7 @@
+pytorch
+keras
+tensorflow_datasets
+sklearn
+pandas
+seaborn
+tqdm
